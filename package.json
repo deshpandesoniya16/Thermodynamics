@@ -9,7 +9,7 @@
     "firebase": "^4.12.1",
     "html2canvas": "^1.0.0-alpha.12",
     "jspdf": "^1.4.1",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "match-sorter": "^2.3.0",
     "moment": "^2.22.1",
     "nuka-carousel": "^4.0.3",
